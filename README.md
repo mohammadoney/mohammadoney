@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohammadoney
+#👋 Hi, I’m @mohammadoney
 - 👀 I’m interested in ... sql and database
 - 🌱 I’m currently learning ...sql
 - 💞️ I’m looking to collaborate on ...sql related project.
